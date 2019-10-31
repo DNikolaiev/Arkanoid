@@ -4,6 +4,11 @@ My clone of famous old school game.<br>
  Number of bricks and their color are randomly generated.<br>
  Move with arrows or A D<br>
 
+## Installation
+1. Navigate to demo branch
+2. Download ZIP file
+3. Run demo.exe
+
  ### Destroy them all!
 
 <img src="https://user-images.githubusercontent.com/23034890/34447457-15d2aad8-ecf5-11e7-8f35-ff5b752a6acd.gif" />
